@@ -46,11 +46,11 @@ while True.
 
 ```
 ## OUPUT.
-## CLIENT.
-![image](https.//github.com/Ragu-123/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/113915622/0b816d90-bb7d-4f47-ba73-c64ab3343c50)
-## SERVER.
-![image](https.//github.com/Ragu-123/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/113915622/f63efc0e-ac30-4d84-b467-1fcc39714fa5)
 
+## CLIENT:
+![image](https://github.com/Ragu-123/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/113915622/0b816d90-bb7d-4f47-ba73-c64ab3343c50)
+## SERVER:
+![image](https://github.com/Ragu-123/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/113915622/f63efc0e-ac30-4d84-b467-1fcc39714fa5)
 
 ## RESULT
 Thus, the python program for python program for simulating ping command
